@@ -1,0 +1,1 @@
+﻿package text{		import data.*;	import fonts.*;		import game.text.*;	import game.effects.*;	import game.*;			public class TextTime extends GameText	{		public function TextTime()		{			super( 55, 0xFFFFFF, MainData.FONT_DOWNCOME, GameText.ALIGN_CENTER );						this.x			= 0;			this.y			= 0;			this.width		= 210;			this.height		= 40;					}					}}

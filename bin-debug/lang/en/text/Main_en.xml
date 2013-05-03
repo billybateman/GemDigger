@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+	<file datatype="plaintext" original="ColorCapture.fla" source-language="EN">
+		<header></header>
+		<body>
+			<trans-unit id="1011" resname="IDS_ERR_1011">
+				<source>Invalid request type.</source>
+			</trans-unit>
+			<trans-unit id="1012" resname="IDS_ERR_1012">
+				<source>Invalid game or version.</source>
+			</trans-unit>
+			<trans-unit id="1017" resname="IDS_ERR_1017">
+				<source>You must be logged in to play.</source>
+			</trans-unit>
+			<trans-unit id="1018" resname="IDS_ERR_1018">
+				<source>The request is not for a valid game domain.</source>
+			</trans-unit>
+			<trans-unit id="1019" resname="IDS_ERR_1019">
+				<source>Attempted to start multiple game instances.</source>
+			</trans-unit>
+			<trans-unit id="1020" resname="IDS_ERR_1020">
+				<source>Connection time out.</source>
+			</trans-unit>
+			<trans-unit id="1021" resname="IDS_ERR_1021">
+				<source>Invalid prize allocation.</source>
+			</trans-unit>
+			<trans-unit id="1025" resname="IDS_ERR_1025">
+				<source>Invalid game play.</source>
+			</trans-unit>
+			<trans-unit id="1030" resname="IDS_ERR_1030">
+				<source>Invalid game play token.</source>
+			</trans-unit>
+			<trans-unit id="1031" resname="IDS_ERR_1031">
+				<source>No available game plays.</source>
+			</trans-unit>
+			<trans-unit id="1032" resname="IDS_ERR_1032">
+				<source>Game timer invalid. Game took too long.</source>
+			</trans-unit>
+			<trans-unit id="1040" resname="IDS_ERR_1040">
+				<source>Attempt to restart the game failed. Too many restarts issued.</source>
+			</trans-unit>
+			<trans-unit id="1101" resname="IDS_ERR_1101">
+				<source>AMF connection error: No gateway defined.</source>
+			</trans-unit>
+			<trans-unit id="1102" resname="IDS_ERR_1102">
+				<source>AMF connection error: Argument Error.</source>
+			</trans-unit>
+			<trans-unit id="1103" resname="IDS_ERR_1103">
+				<source>AMF connection error: IO Error.</source>
+			</trans-unit>
+			<trans-unit id="1104" resname="IDS_ERR_1104">
+				<source>AMF connection error: Security Error.</source>
+			</trans-unit>
+			<trans-unit id="1105" resname="IDS_ERR_1105">
+				<source>AMF connection error: Unknown Error.</source>
+			</trans-unit>
+			<trans-unit id="1106" resname="IDS_ERR_1106">
+				<source>The game controller could not navigate to the specified URL.</source>
+			</trans-unit>
+			<trans-unit id="1107" resname="IDS_ERR_1107">
+				<source>The game configurator's call to the server failed.</source>
+			</trans-unit>
+			<trans-unit id="1108" resname="IDS_ERR_1108">
+				<source>The game preloader encountered an error while loading the game.</source>
+			</trans-unit>
+			<trans-unit id="1109" resname="IDS_ERR_1109">
+				<source>The game preloader encountered an error event while loading the game.</source>
+			</trans-unit>
+			<trans-unit id="1110" resname="IDS_ERR_1110">
+				<source>The scene manager could not create the specified scene.</source>
+			</trans-unit>
+			<trans-unit id="1111" resname="IDS_ERR_1111">
+				<source>The game localizer could not load the language XML file.</source>
+			</trans-unit>
+			<trans-unit id="1112" resname="IDS_ERR_1112">
+				<source>The sound manager could not set the specified channel.</source>
+			</trans-unit>
+			<trans-unit id="1113" resname="IDS_ERR_1113">
+				<source>The sound manager could not find the specified channel during a fade process.</source>
+			</trans-unit>
+			<trans-unit id="1114" resname="IDS_ERR_1114">
+				<source>An asset requested fallback but no fallback URL was specified.</source>
+			</trans-unit>
+			<trans-unit id="1115" resname="IDS_ERR_1115">
+				<source>The asset could not be loaded.</source>
+			</trans-unit>
+			<trans-unit id="1116" resname="IDS_ERR_1116">
+				<source>The game could not load the gateway from the specified XML (captured error).</source>
+			</trans-unit>
+			<trans-unit id="1117" resname="IDS_ERR_1117">
+				<source>The game could not load the gateway from the specified XML (error event).</source>
+			</trans-unit>
+			<trans-unit id="1118" resname="IDS_ERR_1118">
+				<source>The game is not available in the specified language.</source>
+			</trans-unit>
+			<trans-unit id="1130" resname="IDS_ERR_1130">
+				<source>Attempt to export GameAssetLoader content as Bitmap failed.</source>
+			</trans-unit>
+			<trans-unit id="1131" resname="IDS_ERR_1131">
+				<source>Attempt to export GameAssetLoader content as BitmapData failed.</source>
+			</trans-unit>
+			<trans-unit id="1132" resname="IDS_ERR_1132">
+				<source>Attempt to export GameAssetLoader content as MovieClip failed.</source>
+			</trans-unit>
+			<trans-unit id="1190" resname="IDS_ERR_1190">
+				<source>ActionScript </source>
+			</trans-unit>
+			<trans-unit id="7001" resname="IDS_LBL_BONUS_CLR_1">
+				<source>bonus bids:</source>
+			</trans-unit>
+			<trans-unit id="7002" resname="IDS_LBL_BONUS_CLR_2">
+				<source>bonus:</source>
+			</trans-unit>
+			<trans-unit id="7003" resname="IDS_LBL_BONUS_PRC_1">
+				<source>bonus bids:</source>
+			</trans-unit>
+			<trans-unit id="7004" resname="IDS_LBL_BONUS_PRC_2">
+				<source>bonus:</source>
+			</trans-unit>
+			<trans-unit id="7005" resname="IDS_LBL_COLORS_CLR">
+				<source>colors cleared</source>
+			</trans-unit>
+			<trans-unit id="7006" resname="IDS_LBL_PRC_COMPL">
+				<source>percent complete</source>
+			</trans-unit>
+			<trans-unit id="7007" resname="IDS_LBL_SUM_PTS">
+				<source>pts</source>
+			</trans-unit>
+			<trans-unit id="7008" resname="IDS_LBL_NEW_GAME">
+				<source>PLAY AGAIN</source>
+			</trans-unit>
+			<trans-unit id="7009" resname="IDS_LBL_SKIP_BTN">
+				<source>skip tutorial</source>
+			</trans-unit>
+			<trans-unit id="7051" resname="IDS_TXT_HOW_TO_01">
+				<source><![CDATA[<p align="left">The goal is to cover the whole board with the same color. Starting in the <font color="#FF0000">top-left corner field</font>, you do this by clicking the paint buckets below the board. The captured fields will change to the selected color and the captured area will increase if adjacent fields match that color.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7052" resname="IDS_TXT_HOW_TO_02">
+				<source><![CDATA[<br/><br/><p align="left">For example: Click the red paint bucket.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7053" resname="IDS_TXT_HOW_TO_03">
+				<source><![CDATA[<p align="left">See how the three red fields are connected? That means they’re now captured. Continue choosing colors until you’ve run out of time, or you've run out of your <font color="#FF0000">25 allowed captures (clicks)</font>. You must choose wisely, but also quickly!]]></source>
+			</trans-unit>
+			<trans-unit id="7054" resname="IDS_TXT_HOW_TO_04">
+				<source><![CDATA[<br/><br/><p align="left">Next: Click the green paint bucket to capture those three green fields that are connected to the already captured ones.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7055" resname="IDS_TXT_HOW_TO_05">
+				<source><![CDATA[<p align="left">Next: Click the purple paint bucket.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7056" resname="IDS_TXT_HOW_TO_06">
+				<source><![CDATA[<p align="left">Next: Click the orange paint bucket.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7057" resname="IDS_TXT_HOW_TO_07">
+				<source><![CDATA[<p align="left">Finally: Click the blue paint bucket and you'll fill the board!</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7058" resname="IDS_TXT_HOW_TO_08">
+				<source><![CDATA[<p align="left">Congratulations - you’ve finished the tutorial! Think you’re ready for Color Capture?</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7071" resname="IDS_TXT_HOW_TO_21">
+				<source><![CDATA[<p align="center"><font size="20">How Bids Are Won</font><p>]]></source>
+			</trans-unit>
+			<trans-unit id="7072" resname="IDS_TXT_HOW_TO_22">
+				<source><![CDATA[<br/><p align="left"><font size="17">Percent Complete -</font> The primary goal of Color Capture is to capture as much of the board as you can by turning it all the same color. The more fields you capture, the more bids you earn.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7073" resname="IDS_TXT_HOW_TO_23">
+				<source><![CDATA[<br/><p align="left"><font size="17">Colors Cleared -</font> You’ll be awarded an additional five bids for each color you wipe off the board.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7074" resname="IDS_TXT_HOW_TO_24">
+				<source><![CDATA[<br/><p align="left"><font size="17">Time Remaining -</font> If you capture the entire board, you’ll be awarded a bonus bid for every ten seconds left on the timer. Example: 17 seconds remaining earns one bonus bid, 22 seconds earns two bonus bids, etc.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7081" resname="IDS_TXT_HOW_TO_31">
+				<source><![CDATA[<p align="center"><font size="20">How Points Are Won</font><p>]]></source>
+			</trans-unit>
+			<trans-unit id="7082" resname="IDS_TXT_HOW_TO_32">
+				<source><![CDATA[<br/><p align="left"><font size="17">Percent Complete -</font> The primary goal of Color Capture is to capture as much of the board as you can by turning it all the same color. The more fields you capture, the more points you earn.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7083" resname="IDS_TXT_HOW_TO_33">
+				<source><![CDATA[<br/><p align="left"><font size="17">Colors Cleared -</font> You’ll be awarded an additional fifty points for each color you wipe off the board.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7084" resname="IDS_TXT_HOW_TO_34">
+				<source><![CDATA[<br/><p align="left"><font size="17">Time Remaining -</font> If you capture the entire board, you’ll be awarded the number of seconds remaining on the timer as many times as you have steps remaining. Example: 17 seconds remaining earns 17 points if you used up all 25 steps, but 34 points if you only needed 24 steps to clear the board, and 51 points for 23 steps, etc.</p>]]></source>
+			</trans-unit>
+		</body>
+	</file>
+
+</xliff>

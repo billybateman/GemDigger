@@ -1,0 +1,1 @@
+﻿package text{		import data.*;	import fonts.*;		import game.text.*;	import game.effects.*;	import game.*;			public class TextScore extends GameText	{		public function TextScore()		{			super( 35, 0xFFFFFF, MainData.FONT_DOWNCOME, GameText.ALIGN_CENTER );						this.x			= 0;			this.y			= 0;			this.width		= 210;			this.height		= 40;					}					}}

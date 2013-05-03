@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="de">
+
+	<file datatype="plaintext" original="ColorCapture.fla" source-language="DE">
+		<header></header>
+		<body>
+			<trans-unit id="1011" resname="IDS_ERR_1011">
+				<source>Ungültiger Anfragetyp.</source>
+			</trans-unit>
+			<trans-unit id="1012" resname="IDS_ERR_1012">
+				<source>Ungültiges Spiel oder Version.</source>
+			</trans-unit>
+			<trans-unit id="1017" resname="IDS_ERR_1017">
+				<source>Sie müssen eingeloggt sein um spielen zu können.</source>
+			</trans-unit>
+			<trans-unit id="1018" resname="IDS_ERR_1018">
+				<source>Die Anfrage geht nicht an eine gültige Domäne.</source>
+			</trans-unit>
+			<trans-unit id="1019" resname="IDS_ERR_1019">
+				<source>Es wurde versucht, mehrere Instanzen des gleichen Spiels zu starten.</source>
+			</trans-unit>
+			<trans-unit id="1020" resname="IDS_ERR_1020">
+				<source>Serveranfrage Zeitüberschreitung.</source>
+			</trans-unit>
+			<trans-unit id="1021" resname="IDS_ERR_1021">
+				<source>Ungültige Gewinnzuteilung.</source>
+			</trans-unit>
+			<trans-unit id="1025" resname="IDS_ERR_1025">
+				<source>Ungültige Spielausführung.</source>
+			</trans-unit>
+			<trans-unit id="1030" resname="IDS_ERR_1030">
+				<source>Ungültige Spielausführungs-Marke.</source>
+			</trans-unit>
+			<trans-unit id="1031" resname="IDS_ERR_1031">
+				<source>Keine verfügbare Spielausführung.</source>
+			</trans-unit>
+			<trans-unit id="1032" resname="IDS_ERR_1032">
+				<source>Ungültiger Zähler. Das Spiel dauerte zu lang.</source>
+			</trans-unit>
+			<trans-unit id="1040" resname="IDS_ERR_1040">
+				<source>Neustart fehlgeschlagen. Es wurden zu viele Neustarts ausgestellt.</source>
+			</trans-unit>
+			<trans-unit id="1101" resname="IDS_ERR_1101">
+				<source>AMF Verbindungsfehler: Es wurde keine Zugangsadresse definiert.</source>
+			</trans-unit>
+			<trans-unit id="1102" resname="IDS_ERR_1102">
+				<source>AMF Verbindungsfehler: Argumentfehler.</source>
+			</trans-unit>
+			<trans-unit id="1103" resname="IDS_ERR_1103">
+				<source>AMF Verbindungsfehler: Ein-/Ausgabefehler.</source>
+			</trans-unit>
+			<trans-unit id="1104" resname="IDS_ERR_1104">
+				<source>AMF Verbindungsfehler: Sicherheitsfehler.</source>
+			</trans-unit>
+			<trans-unit id="1105" resname="IDS_ERR_1105">
+				<source>AMF Verbindungsfehler: Unbekannter Fehler.</source>
+			</trans-unit>
+			<trans-unit id="1106" resname="IDS_ERR_1106">
+				<source>Die Spielsteuerung konnte den Benutzer nicht zur angegebenen Webadresse weiterleiten.</source>
+			</trans-unit>
+			<trans-unit id="1107" resname="IDS_ERR_1107">
+				<source>Der Serveraufruf der Spielkonfiguration ist fehlgeschlagen.</source>
+			</trans-unit>
+			<trans-unit id="1108" resname="IDS_ERR_1108">
+				<source>Das Ladeprogramm stiess auf einen Fehler beim Laden des Spiels.</source>
+			</trans-unit>
+			<trans-unit id="1109" resname="IDS_ERR_1109">
+				<source>Das Ladeprogramm stiess auf ein Fehlerereignis beim Laden des Spiels.</source>
+			</trans-unit>
+			<trans-unit id="1110" resname="IDS_ERR_1110">
+				<source>Die Szenensteuerung konnte die angegebene Szene nicht erstellen.</source>
+			</trans-unit>
+			<trans-unit id="1111" resname="IDS_ERR_1111">
+				<source>Die Sprachsteuerung konnte die XML-Sprachdatei nicht laden.</source>
+			</trans-unit>
+			<trans-unit id="1112" resname="IDS_ERR_1112">
+				<source>Die Audiosteuerung konnte den angegebenen Kanal nicht einrichten.</source>
+			</trans-unit>
+			<trans-unit id="1113" resname="IDS_ERR_1113">
+				<source>Die Audiosteuerung konnte den angegebenen Kanal während eines Ein-/Ausblendungsvorgangs nicht finden.</source>
+			</trans-unit>
+			<trans-unit id="1114" resname="IDS_ERR_1114">
+				<source>Ein Lade-Element verlangte eine Ausweichadresse aber es wurde keine Adresse angegeben.</source>
+			</trans-unit>
+			<trans-unit id="1115" resname="IDS_ERR_1115">
+				<source>Das Element konnte nicht geladen werden.</source>
+			</trans-unit>
+			<trans-unit id="1116" resname="IDS_ERR_1116">
+				<source>Das Spiel konnte die Zugansadresse nicht von der angegebenen XML-Datei laden (abgefangener Fehler).</source>
+			</trans-unit>
+			<trans-unit id="1117" resname="IDS_ERR_1117">
+				<source>Das Spiel konnte die Zugansadresse nicht von der angegebenen XML-Datei laden (Fehlerereignis).</source>
+			</trans-unit>
+			<trans-unit id="1118" resname="IDS_ERR_1118">
+				<source>Das Spiel ist in der angegebenen Sprache nicht verfügbar.</source>
+			</trans-unit>
+			<trans-unit id="1130" resname="IDS_ERR_1130">
+				<source>Der Export von GameAssetLoader Inhalt als Bitmap ist fehlgeschlagen.</source>
+			</trans-unit>
+			<trans-unit id="1131" resname="IDS_ERR_1131">
+				<source>Der Export von GameAssetLoader Inhalt als BitmapData ist fehlgeschlagen.</source>
+			</trans-unit>
+			<trans-unit id="1132" resname="IDS_ERR_1132">
+				<source>Der Export von GameAssetLoader Inhalt als MovieClip ist fehlgeschlagen.</source>
+			</trans-unit>
+			<trans-unit id="1190" resname="IDS_ERR_1190">
+				<source>ActionScript </source>
+			</trans-unit>
+			<trans-unit id="7001" resname="IDS_LBL_BONUS_CLR_1">
+				<source>bonusangebot:</source>
+			</trans-unit>
+			<trans-unit id="7002" resname="IDS_LBL_BONUS_CLR_2">
+				<source>bonus:</source>
+			</trans-unit>
+			<trans-unit id="7003" resname="IDS_LBL_BONUS_PRC_1">
+				<source>bonusangebot:</source>
+			</trans-unit>
+			<trans-unit id="7004" resname="IDS_LBL_BONUS_PRC_2">
+				<source>bonus:</source>
+			</trans-unit>
+			<trans-unit id="7005" resname="IDS_LBL_COLORS_CLR">
+				<source>eroberte farben</source>
+			</trans-unit>
+			<trans-unit id="7006" resname="IDS_LBL_PRC_COMPL">
+				<source>prozent erobert</source>
+			</trans-unit>
+			<trans-unit id="7007" resname="IDS_LBL_SUM_PTS">
+				<source>pkte</source>
+			</trans-unit>
+			<trans-unit id="7008" resname="IDS_LBL_RESTART_GAME">
+				<source>SPIEL NEUSTART</source>
+			</trans-unit>
+			<trans-unit id="7009" resname="IDS_LBL_SKIP_BTN">
+				<source>skip tutorial</source>
+			</trans-unit>
+			<trans-unit id="7051" resname="IDS_TXT_HOW_TO_01">
+				<source><![CDATA[<p align="left">Ziel des Spiels ist, dass alle Spielfelder die gleiche Farbe haben. Du fängst in der <font color="#FF0000">linken oberen Ecke</font> an indem du auf die Farbeimer unter dem Spielbrett klickst. Die bereits eroberten Felder wechseln dann zur gewählten Farbe und erobern alle anliegende Felder der gleichen Farbe.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7052" resname="IDS_TXT_HOW_TO_02">
+				<source><![CDATA[<br/><br/><p align="left">Zum Beispiel: Klicke auf den roten Farbeimer.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7053" resname="IDS_TXT_HOW_TO_03">
+				<source><![CDATA[<p align="left">Siehst du wie die roten Felder jetzt verbunden sind? Das bedeutet du hast sie erobert. Wähle weitere Farben bis die Zeit abgelaufen ist oder du die <font color="#FF0000">25 erlaubten Schritte (Klicks)</font> aufgebraucht hast. Du musst mit Bedacht wählen, aber trotzdem schnell sein!]]></source>
+			</trans-unit>
+			<trans-unit id="7054" resname="IDS_TXT_HOW_TO_04">
+				<source><![CDATA[<br/><br/><p align="left">Weiter: Klicke auf den grünen Farbeimer um die grünen Felder, die angrenzend zu den bereits eroberten Felder liegen, zu erobern.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7055" resname="IDS_TXT_HOW_TO_05">
+				<source><![CDATA[<p align="left">Weiter: Klicke auf den violetten Farbeimer.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7056" resname="IDS_TXT_HOW_TO_06">
+				<source><![CDATA[<p align="left">Weiter: Klicke auf den orangen Farbeimer.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7057" resname="IDS_TXT_HOW_TO_07">
+				<source><![CDATA[<p align="left">Schlussendlich: Klicke auf den blauen Farbeimer und du hast das ganze Spielbrett erobert!</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7058" resname="IDS_TXT_HOW_TO_08">
+				<source><![CDATA[<p align="left">Gratuliere - du hast die Spielanleitung erfolgreich abgeschlossen! Glaubst du, du hast das Zeug für Color Capture?</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7071" resname="IDS_TXT_HOW_TO_21">
+				<source><![CDATA[<p align="center"><font size="20">Wie Auktionsmarken Gewonnen Werden</font><p>]]></source>
+			</trans-unit>
+			<trans-unit id="7072" resname="IDS_TXT_HOW_TO_22">
+				<source><![CDATA[<br/><p align="left"><font size="17">Prozent Erobert -</font> Das Hauptziel von Color Capture ist es, so viele Felder wie möglich auf dem Spielbrett zu erobern, indem du sie in die gleiche Farbe verwandelst. Je mehr Felder du eroberst, desto mehr Marken gewinnst du.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7073" resname="IDS_TXT_HOW_TO_23">
+				<source><![CDATA[<br/><p align="left"><font size="17">Farben Erobert -</font> Du erhältst zusätzliche fünf Marken für jede Farbe, die du vollständig vom Spielbrett wegputzt.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7074" resname="IDS_TXT_HOW_TO_24">
+				<source><![CDATA[<br/><p align="left"><font size="17">Verbleibende Zeit -</font> Wenn du das ganze Brett eroberst, erhältst du eine Marke für jede zehn Sekunden, die auf der Uhr verbleiben. Beipiel: Wenn 17 Sekunden verbleiben, erhältst du eine Bonusmarke, mit 22 Sekunden erhältst du zwei Bonusmarken, usw.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7081" resname="IDS_TXT_HOW_TO_31">
+				<source><![CDATA[<p align="center"><font size="20">Wie Punkte Gewonnen Werden</font><p>]]></source>
+			</trans-unit>
+			<trans-unit id="7082" resname="IDS_TXT_HOW_TO_32">
+				<source><![CDATA[<br/><p align="left"><font size="17">Prozent Erobert -</font> Das Hauptziel von Color Capture ist es, so viele Felder wie möglich auf dem Spielbrett zu erobern, indem du sie in die gleiche Farbe verwandelst. Je mehr Felder du eroberst, desto mehr Punkte gewinnst du..</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7083" resname="IDS_TXT_HOW_TO_33">
+				<source><![CDATA[<br/><p align="left"><font size="17">Farben Erobert -</font> Du erhältst zusätzliche fünfzig Punkte für jede Farbe, die du vollständig vom Spielbrett wegputzt.</p>]]></source>
+			</trans-unit>
+			<trans-unit id="7084" resname="IDS_TXT_HOW_TO_34">
+				<source><![CDATA[<br/><p align="left"><font size="17">Verbleibende Zeit -</font> Wenn du das ganze Brett eroberst, erhältst du die Anzahl Sekunden, die auf der Uhr verbleiben, und zwar so viele Mal, wie Schritte verbleiben. Beipiel: Wenn 17 Sekunden verbleiben, erhältst du 17 Punkte wenn du alle 25 Schritte benötigt hast, aber 34 Punkte wenn du nur 24 Schritte benötigt hast, und 51 Punkte für 23 Schritte, usw.</p>]]></source>
+			</trans-unit>
+		</body>
+	</file>
+
+</xliff>
